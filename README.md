@@ -1,6 +1,6 @@
 Merhaba, ben Mehmet 👋
 
-Bilgisayar mühendisliğinden yeni mezun oldum. Temel hedefim backend alanında çalışmak; ancak Türkiye'deki iş piyasası koşulları nedeniyle gerektiğinde frontend veya full-stack yönünde de kendimi geliştirmeye açığım.
+Bilgisayar mühendisliğinden yeni mezun oldum. Temel hedefim backend alanında çalışmak; ancak Türkiye'deki iş piyasası koşulları nedeniyle full-stack yönünde kendimi geliştiriyorum.
 
 Kodlama alanında henüz çok deneyimli değilim, ama fonksiyonlar ve algoritmalar konusunda kendimi yeterli görüyorum. Yapay zekânın kod yazma işini büyük ölçüde üstlendiği bir dönemde, ben de daha çok vibecoding ve prompt engineering üzerine odaklanıyorum. Uzun vadeli hedefim iyi bir proje geliştiricisi ve takım lideri olmak.
 
